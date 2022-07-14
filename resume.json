@@ -1,0 +1,147 @@
+{
+    "basics": {
+        "name": "Gopal Patidar",
+        "label": "Student",
+        "picture": "",
+        "email": "2021kuec2002@iiitkota.ac.in",
+        "phone": "+919171138904",
+        "website": "",
+        "summary": "I'm a student of Indian Institute of Information technology,Kota (India), persuing my B.tech in Electronics And Communication. Building awesome WebApp. I have enthusiasm in Full Stack development.",
+        "location": {
+            "address": "Dehariya sahu",
+            "postalCode": "455221",
+            "city": "Dehariya sahu",
+            "countryCode": " India",
+            "region": "Madhya Pradesh"
+        },
+        "profiles": [
+            {
+                "network": "Twitter",
+                "username": "GopalPa94836220",
+                "url": "https://twitter.com/GopalPa94836220?s=08"
+            },
+            {
+                "network": "Github",
+                "username": "86gopal",
+                "url": "https://github.com/86gopal"
+            },
+            {
+                "network": "linkedin",
+                "username": "Gopal Patidar",
+                "url": "https://www.linkedin.com/in/gopal-patidar-06baba228"
+            },
+            {
+                "network": "Instagram",
+                "username": "_gopal_patidar86",
+                "url": "https://www.instagram.com/_gopal_patidar86/"
+            }
+        ]
+    },
+    "work": [
+        {
+            "company": "",
+            "position": "",
+            "website": "",
+            "startDate": "",
+            "endDate": "",
+            "summary": ""
+        },
+        {
+            "company": "",
+            "position": "",
+            "website": "",
+            "startDate": "",
+            "endDate": "",
+            "summary": ""
+        },
+        {
+            "company": "",
+            "position": "",
+            "website": "",
+            "startDate": "",
+            "endDate": "",
+            "summary": ""
+        }
+    ],
+    "education": [
+        {
+            "institution": "Indian Institute of Information Technology,Kota",
+            "area": "Engineering",
+            "studyType": "Bachelor (hons)",
+            "startDate": "",
+            "endDate": "",
+            "gpa": "",
+            "courses": [
+                "Electronics And Communication"
+            ]
+        }
+    ],
+    "awards": [
+        {
+            "title": "",
+            "awarder": "",
+            "date": ""
+        }
+    ],
+    "publications": [
+        {
+            "title": "",
+            "details": "",
+            "link": ""
+        },
+        {
+            "title": "",
+            "details": "",
+            "link": ""
+        },
+        {
+            "title": "",
+            "details": "",
+            "link": ""
+        }
+    ],
+    "skills": [
+        {
+            "name": "",
+            "level": "",
+            "keywords": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "C/C++",
+                "",
+                "",
+                "",
+                ""
+            ]
+        }
+    ],
+    "languages": [
+        {
+            "language": "English",
+            "fluency": "Native speaker"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Singing",
+            "keywords": [
+                "Guitar"
+            ]
+        },
+        {
+            "name": "Playing",
+            "keywords": [
+                "Cricket",
+                "Badminton"
+            ]
+        }
+    ]
+}
